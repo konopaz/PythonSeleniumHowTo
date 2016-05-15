@@ -1,0 +1,2 @@
+- Description of project ie TDD with Selenium using python
+- Brief descrption of the CRUD application we'll test
